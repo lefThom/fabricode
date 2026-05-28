@@ -1,7 +1,7 @@
 ---
 title: "FabriCode"
 order: 0
-in_menu: true
+in_menu: false
 ---
 ![Texte décrivant l'image]({% link images/gpt-image-2_je_veux_un_logo_textuel_de_FabriCode_voici_le_descriptif_du_projet_FabriCode_Fab-0.jpg %})
 ___
